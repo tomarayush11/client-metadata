@@ -1,6 +1,7 @@
 {
-  "client_name": "my-app",
-  "redirect_uris": ["https://localhost:9000"],
-  "grant_types": ["authorization_code"],
-  "response_types": ["code"]
+"client_name": "My app",
+"client_id": "https://tomarayush11.github.io/client-metadata/client-metadata.json",
+"redirect_uris": [
+"http://localhost:8000/oauth21dcr"
+]
 }
