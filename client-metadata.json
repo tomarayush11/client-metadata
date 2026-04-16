@@ -1,0 +1,6 @@
+{
+  "client_name": "my-app",
+  "redirect_uris": ["https://localhost:9000"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"]
+}
