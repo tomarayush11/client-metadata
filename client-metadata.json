@@ -1,6 +1,6 @@
 {
 "client_name": "My app",
-"client_id": "https://tomarayush11.github.io/client-metadata/client-metadata.json",
+"client_id": "https://tomarayush11.github.io:443/client-metadata/client-metadata.json",
 "redirect_uris": [
 "http://localhost:8000/oauth21dcr"
 ]
